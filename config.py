@@ -15,16 +15,16 @@ BOT_TEXT = "GAJJU BHAI KA EXTRACTOR"
 OWNER_ID = int(os.environ.get("OWNER_ID", "1955406483"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002888391802"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003072644996"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002888391802")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003072644996")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://rs92573993688:pVf4EeDuRi2o92ex@cluster0.9u29q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002888391802"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003072644996"))
 # -----------------------------------------------
-join = '<a href="https://t.me/+QX21kL2wU7kxY2Y9">✳️ JOIN BACKUP</a>'
+join = '<a href="https://t.me/allbotsupdates1">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
