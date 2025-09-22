@@ -3,28 +3,28 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "21157244"))
+API_ID = int(os.environ.get("API_ID", "25331263"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","4981c2699bd91c7db836ec8f77e5b0f0")
+API_HASH = os.environ.get("API_HASH","cab85305bf85125a2ac053210bcd1030")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Gajjubhaikaext_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@YouTubeVideoDownloadYT_bot")
 BOT_TEXT = "GAJJU BHAI KA EXTRACTOR"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "1783306092"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1955406483"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002195125473"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002888391802"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002195125473")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002888391802")) 
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://rs92573993688:pVf4EeDuRi2o92ex@cluster0.9u29q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002195125473"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002888391802"))
 # -----------------------------------------------
-join = '<a href="https://t.me/RPSC_UPSC_CURRENT">✳️ JOIN BACKUP</a>'
+join = '<a href="https://t.me/+QX21kL2wU7kxY2Y9">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
