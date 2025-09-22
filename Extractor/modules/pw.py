@@ -295,7 +295,7 @@ async def pw_login(app, message):
                 f.write(line + "\n")
             
             f.write("\n━━━━━━━━━━━━━━━━━━━━━\n")
-            f.write("🌟 Join Us: @UGxPrivate\n")
+            f.write("🌟 Join Us: @allbotsupdates1\n")
             f.write("━━━━━━━━━━━━━━━━━━━━━")
 
         end_time = time.time()
